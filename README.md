@@ -1,16 +1,9 @@
-# myapp
+# myapp-calculadora-gabriel
 
-A new Flutter project.
+Realizado no Flutter no project IDX.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Essa calculadora foi desenvolvida como parte das atividades do curso Talento Tech. 
+É um projeto simples, mas que me ajudou a colocar em prática tudo o que aprendi sobre 
+lógica de programação e desenvolvimento. Ela realiza operações básicas, como soma, subtração, 
+multiplicação e divisão, e foi uma ótima oportunidade para entender melhor como funcionam os 
+fundamentos do código.
